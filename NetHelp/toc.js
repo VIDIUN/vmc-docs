@@ -1,13 +1,13 @@
 [
     {
-        "url": "Documents/kmcoverview.htm",
-        "title": "KMC Overview",
-        "tooltip": "KMC Overview",
+        "url": "Documents/vmcoverview.htm",
+        "title": "VMC Overview",
+        "tooltip": "VMC Overview",
         "items": [
             {
-                "url": "Documents/whatcanidowiththekmc.htm",
-                "title": "What Can I Do with the KMC?",
-                "tooltip": "What Can I Do with the KMC?"
+                "url": "Documents/whatcanidowiththevmc.htm",
+                "title": "What Can I Do with the VMC?",
+                "tooltip": "What Can I Do with the VMC?"
             },
             {
                 "url": "Documents/mediamanagementandworkflow.htm",
@@ -37,9 +37,9 @@
         "tooltip": "Uploading and Ingestion",
         "items": [
             {
-                "url": "Documents/whatisakalturaentry.htm",
-                "title": "What is a Kaltura Entry?",
-                "tooltip": "What is a Kaltura Entry?"
+                "url": "Documents/whatisavidiunentry.htm",
+                "title": "What is a Vidiun Entry?",
+                "tooltip": "What is a Vidiun Entry?"
             },
             {
                 "url": "Documents/browserbasedingestion.htm",
@@ -47,9 +47,9 @@
                 "tooltip": "Browser-based Ingestion"
             },
             {
-                "url": "Documents/thekalturauploader.htm",
-                "title": "The Kaltura Uploader",
-                "tooltip": "The Kaltura Uploader"
+                "url": "Documents/thevidiunuploader.htm",
+                "title": "The Vidiun Uploader",
+                "tooltip": "The Vidiun Uploader"
             },
             {
                 "url": "Documents/theuploadtab.htm",
@@ -116,16 +116,16 @@
                         "tooltip": "Key Benefits and Functionality of Draft Entries"
                     },
                     {
-                        "url": "Documents/hostingvideosatyourpreferredlocationandlinkingtokaltura.htm",
-                        "title": "Hosting Videos at your Preferred Location and Linking to Kaltura",
-                        "tooltip": "Hosting Videos at your Preferred Location and Linking to Kaltura"
+                        "url": "Documents/hostingvideosatyourpreferredlocationandlinkingtovidiun.htm",
+                        "title": "Hosting Videos at your Preferred Location and Linking to Vidiun",
+                        "tooltip": "Hosting Videos at your Preferred Location and Linking to Vidiun"
                     }
                 ]
             },
             {
-                "url": "Documents/replacingvideoassetsforakalturaentry.htm",
-                "title": "Replacing Video Assets for a Kaltura Entry",
-                "tooltip": "Replacing Video Assets for a Kaltura Entry"
+                "url": "Documents/replacingvideoassetsforavidiunentry.htm",
+                "title": "Replacing Video Assets for a Vidiun Entry",
+                "tooltip": "Replacing Video Assets for a Vidiun Entry"
             },
             {
                 "url": "Documents/uploadingandmodifyingrelatedfiles.htm",
@@ -518,9 +518,9 @@
                 "tooltip": "Omniture on Page"
             },
             {
-                "url": "Documents/kalturaanalytics.htm",
-                "title": "Kaltura Analytics",
-                "tooltip": "Kaltura Analytics"
+                "url": "Documents/vidiunanalytics.htm",
+                "title": "Vidiun Analytics",
+                "tooltip": "Vidiun Analytics"
             }
         ]
     },
@@ -834,9 +834,9 @@
                 "tooltip": "Metadata and Related Files",
                 "items": [
                     {
-                        "url": "Documents/kalturacustommetadatafunctionality.htm",
-                        "title": "Kaltura Custom Metadata Functionality",
-                        "tooltip": "Kaltura Custom Metadata Functionality",
+                        "url": "Documents/vidiuncustommetadatafunctionality.htm",
+                        "title": "Vidiun Custom Metadata Functionality",
+                        "tooltip": "Vidiun Custom Metadata Functionality",
                         "items": [
                             {
                                 "url": "Documents/usingcustomdataforentries.htm",
@@ -884,9 +884,9 @@
         ]
     },
     {
-        "url": "Documents/locatingcontentinthekmc.htm",
-        "title": "Locating Content in the KMC",
-        "tooltip": "Locating Content in the KMC",
+        "url": "Documents/locatingcontentinthevmc.htm",
+        "title": "Locating Content in the VMC",
+        "tooltip": "Locating Content in the VMC",
         "items": [
             {
                 "url": "Documents/searchingthroughentries.htm",
@@ -1036,9 +1036,9 @@
                 ]
             },
             {
-                "url": "Documents/restrictingviewswithakalturasession.htm",
-                "title": "Restricting Views with a Kaltura Session",
-                "tooltip": "Restricting Views with a Kaltura Session",
+                "url": "Documents/restrictingviewswithavidiunsession.htm",
+                "title": "Restricting Views with a Vidiun Session",
+                "tooltip": "Restricting Views with a Vidiun Session",
                 "items": [
                     {
                         "url": "Documents/payperview.htm",
@@ -1072,9 +1072,9 @@
         "tooltip": "Managing Content Entitlement",
         "items": [
             {
-                "url": "Documents/kalturasentitlementmodel.htm",
-                "title": "Kaltura’s Entitlement Model",
-                "tooltip": "Kaltura’s Entitlement Model"
+                "url": "Documents/vidiunsentitlementmodel.htm",
+                "title": "Vidiun’s Entitlement Model",
+                "tooltip": "Vidiun’s Entitlement Model"
             },
             {
                 "url": "Documents/categorysentitlementstab.htm",
@@ -1241,9 +1241,9 @@
         ]
     },
     {
-        "url": "Documents/kmcusersandroles.htm",
-        "title": "KMC Users and Roles",
-        "tooltip": "KMC Users and Roles",
+        "url": "Documents/vmcusersandroles.htm",
+        "title": "VMC Users and Roles",
+        "tooltip": "VMC Users and Roles",
         "items": [
             {
                 "url": "Documents/rolesandpermissions.htm",
@@ -1399,9 +1399,9 @@
         "tooltip": "Live Streaming",
         "items": [
             {
-                "url": "Documents/livestreamingusingthekmc.htm",
-                "title": "Live Streaming Using the KMC",
-                "tooltip": "Live Streaming Using the KMC",
+                "url": "Documents/livestreamingusingthevmc.htm",
+                "title": "Live Streaming Using the VMC",
+                "tooltip": "Live Streaming Using the VMC",
                 "items": [
                     {
                         "url": "Documents/digitalvideorecorderdvr.htm",
@@ -1421,14 +1421,14 @@
                         "tooltip": "Setting up the Hardware and Software"
                     },
                     {
-                        "url": "Documents/creatingalivestreamingentryinthekmc.htm",
-                        "title": "Creating a Live Streaming Entry in the KMC",
-                        "tooltip": "Creating a Live Streaming Entry in the KMC"
+                        "url": "Documents/creatingalivestreamingentryinthevmc.htm",
+                        "title": "Creating a Live Streaming Entry in the VMC",
+                        "tooltip": "Creating a Live Streaming Entry in the VMC"
                     },
                     {
-                        "url": "Documents/kalturalivestreaminghdshlsdash.htm",
-                        "title": "Kaltura Live Streaming (HDS / HLS / DASH)",
-                        "tooltip": "Kaltura Live Streaming (HDS / HLS / DASH)"
+                        "url": "Documents/vidiunlivestreaminghdshlsdash.htm",
+                        "title": "Vidiun Live Streaming (HDS / HLS / DASH)",
+                        "tooltip": "Vidiun Live Streaming (HDS / HLS / DASH)"
                     },
                     {
                         "url": "Documents/universalstreamingflashandmobilehdshdls.htm",
@@ -1453,9 +1453,9 @@
                 "tooltip": "Multiple Bitrate Encoding",
                 "items": [
                     {
-                        "url": "Documents/configuringthelivestreamparametersinthekmc.htm",
-                        "title": "Configuring the Live Stream Parameters in the KMC",
-                        "tooltip": "Configuring the Live Stream Parameters in the KMC"
+                        "url": "Documents/configuringthelivestreamparametersinthevmc.htm",
+                        "title": "Configuring the Live Stream Parameters in the VMC",
+                        "tooltip": "Configuring the Live Stream Parameters in the VMC"
                     },
                     {
                         "url": "Documents/settingupthebroadcastingcomputer.htm",
@@ -1613,9 +1613,9 @@
                 "tooltip": "Video Delivery Settings",
                 "items": [
                     {
-                        "url": "Documents/kalturaauto.htm",
-                        "title": "Kaltura Auto",
-                        "tooltip": "Kaltura Auto"
+                        "url": "Documents/vidiunauto.htm",
+                        "title": "Vidiun Auto",
+                        "tooltip": "Vidiun Auto"
                     },
                     {
                         "url": "Documents/httpprogressivedownloaddelivery.htm",
@@ -1679,9 +1679,9 @@
         "tooltip": "Distribution and Syndication",
         "items": [
             {
-                "url": "Documents/kalturadistributionmodule.htm",
-                "title": "Kaltura Distribution Module",
-                "tooltip": "Kaltura Distribution Module",
+                "url": "Documents/vidiundistributionmodule.htm",
+                "title": "Vidiun Distribution Module",
+                "tooltip": "Vidiun Distribution Module",
                 "items": [
                     {
                         "url": "Documents/keybenefits.htm",
@@ -1779,9 +1779,9 @@
                         "tooltip": "Google Webmaster Tasks"
                     },
                     {
-                        "url": "Documents/kmcpublishertasksforgooglesyndication.htm",
-                        "title": "KMC Publisher Tasks for Google Syndication",
-                        "tooltip": "KMC Publisher Tasks for Google Syndication",
+                        "url": "Documents/vmcpublishertasksforgooglesyndication.htm",
+                        "title": "VMC Publisher Tasks for Google Syndication",
+                        "tooltip": "VMC Publisher Tasks for Google Syndication",
                         "items": [
                             {
                                 "url": "Documents/googlefeedparameters.htm",
@@ -1797,9 +1797,9 @@
                         "tooltip": "Syndicating to TubeMogul"
                     },
                     {
-                        "url": "Documents/kmcpublishertasksfortubemogulsyndication.htm",
-                        "title": "KMC Publisher Tasks for TubeMogul Syndication",
-                        "tooltip": "KMC Publisher Tasks for TubeMogul Syndication",
+                        "url": "Documents/vmcpublishertasksfortubemogulsyndication.htm",
+                        "title": "VMC Publisher Tasks for TubeMogul Syndication",
+                        "tooltip": "VMC Publisher Tasks for TubeMogul Syndication",
                         "items": [
                             {
                                 "url": "Documents/tubemogulfeedparameters.htm",
@@ -1820,9 +1820,9 @@
                         "tooltip": "Syndicating to iTunes"
                     },
                     {
-                        "url": "Documents/kmcpublishertasksforitunessyndication.htm",
-                        "title": "KMC Publisher Tasks for iTunes Syndication",
-                        "tooltip": "KMC Publisher Tasks for iTunes Syndication",
+                        "url": "Documents/vmcpublishertasksforitunessyndication.htm",
+                        "title": "VMC Publisher Tasks for iTunes Syndication",
+                        "tooltip": "VMC Publisher Tasks for iTunes Syndication",
                         "items": [
                             {
                                 "url": "Documents/itunesfeedparameters.htm",
@@ -1838,9 +1838,9 @@
                         "tooltip": "Syndicating to Yahoo"
                     },
                     {
-                        "url": "Documents/kmcpublishertasksforyahoosyndication.htm",
-                        "title": "KMC Publisher Tasks for Yahoo Syndication",
-                        "tooltip": "KMC Publisher Tasks for Yahoo Syndication"
+                        "url": "Documents/vmcpublishertasksforyahoosyndication.htm",
+                        "title": "VMC Publisher Tasks for Yahoo Syndication",
+                        "tooltip": "VMC Publisher Tasks for Yahoo Syndication"
                     },
                     {
                         "url": "Documents/yahoowebmastertasks.htm",
@@ -1870,9 +1870,9 @@
         "tooltip": "Advertising and Ad Networks",
         "items": [
             {
-                "url": "Documents/overviewofadvertisingwithkaltura.htm",
-                "title": "Overview of Advertising with Kaltura",
-                "tooltip": "Overview of Advertising with Kaltura",
+                "url": "Documents/overviewofadvertisingwithvidiun.htm",
+                "title": "Overview of Advertising with Vidiun",
+                "tooltip": "Overview of Advertising with Vidiun",
                 "items": [
                     {
                         "url": "Documents/playerbranding.htm",
@@ -1887,9 +1887,9 @@
                 "tooltip": "Connecting with an Ad Server",
                 "items": [
                     {
-                        "url": "Documents/kalturaplayerandadplugins.htm",
-                        "title": "Kaltura Player and Ad Plugins",
-                        "tooltip": "Kaltura Player and Ad Plugins"
+                        "url": "Documents/vidiunplayerandadplugins.htm",
+                        "title": "Vidiun Player and Ad Plugins",
+                        "tooltip": "Vidiun Player and Ad Plugins"
                     },
                     {
                         "url": "Documents/supportedadservers.htm",
@@ -1904,9 +1904,9 @@
                 ]
             },
             {
-                "url": "Documents/creatingkalturavideoads.htm",
-                "title": "Creating Kaltura Video Ads",
-                "tooltip": "Creating Kaltura Video Ads"
+                "url": "Documents/creatingvidiunvideoads.htm",
+                "title": "Creating Vidiun Video Ads",
+                "tooltip": "Creating Vidiun Video Ads"
             },
             {
                 "url": "Documents/addingthevastadserver.htm",
@@ -2254,9 +2254,9 @@
                         "tooltip": "Sending Analytics Events to Third Parties"
                     },
                     {
-                        "url": "Documents/kalturaplayersupportedplugins.htm",
-                        "title": "Kaltura Player Supported Plug-ins",
-                        "tooltip": "Kaltura Player Supported Plug-ins"
+                        "url": "Documents/vidiunplayersupportedplugins.htm",
+                        "title": "Vidiun Player Supported Plug-ins",
+                        "tooltip": "Vidiun Player Supported Plug-ins"
                     }
                 ]
             }

@@ -1,5 +1,5 @@
-# kmc-docs
-All help links ('?' buttons) in KMC lead here.
+# vmc-docs
+All help links ('?' buttons) in VMC lead here.
 
 ## Installation
-unzip tag to /opt/kaltura/web/content/docs
+unzip tag to /opt/vidiun/web/content/docs
